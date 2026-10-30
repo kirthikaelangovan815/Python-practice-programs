@@ -106,3 +106,14 @@ total=tamil+english+maths+science+social
 print("total marks:",total)
 average=total/5
 print("average marks:",f"{average:.2f}")
+#Write a python program that reads one value of each type from the user
+a=int(input())
+b=float(input())
+c=str(input())
+d=int(input())
+e=float(input())
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
